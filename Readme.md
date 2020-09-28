@@ -237,6 +237,7 @@ I realize Avalonia needs a cross-platform UI designer solution given that it's a
 Some other things I still want to do at some point:
 
 * Follow the Getting Started tutorial on the Avalonia website
+* Mess with XamlControlGallery on my tablet to see how it works with touch
 * Investigate how the spectrum thiny works in Synfonia
 * Mess with the Avalonia version of MSBuild Log Viewer
 * Maybe mess with WalletWasbi (and try to forget about my lost Bitboin wallet.)
